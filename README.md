@@ -10,7 +10,6 @@ This repo shows a minimal end-to-end setup where GPT controls a single ACT pick-
 The assistant talks to you over voice and calls one policy function to move a carrot from the plate to the cutting board.
 
 ![Robot setup](assets/Carrot_Slicer_Robot_Setup.png)
-![Top camera view](assets/Top_Camera_View.png)
 
 ## Before you start
 - **Have SO-101 + LeRobot working first**: follow the official LeRobot docs to assemble, wire, and teleoperate the arm.
