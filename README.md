@@ -1,4 +1,8 @@
 # GPT‑ACT (Carrot Pick-and-Place Demo)
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20GPT--ACT-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/JEJPc5V4Kj)
+[![Follow on X](https://img.shields.io/badge/Follow-@sangam__chapagai-000000?style=flat&logo=x&logoColor=white)](https://x.com/sangam_chapagai)
+
 Minimal repo showing an AI voice assistant controlling an ACT policy on the SO101 for carrot pick and place.
 
 ## Overview
