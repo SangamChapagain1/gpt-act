@@ -1,0 +1,9 @@
+fastapi>=0.115.0
+uvicorn>=0.30.6
+httpx>=0.27.2
+python-dotenv>=1.0.1
+opencv-python>=4.10.0
+numpy>=1.26.0
+Pillow>=10.3.0
+rerun-sdk>=0.26.1
+lerobot==0.4.1
