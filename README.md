@@ -1,8 +1,5 @@
 # GPT‑ACT (Carrot Pick-and-Place Demo)
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20GPT--ACT-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/JEJPc5V4Kj)
-[![Follow on X](https://img.shields.io/badge/Follow-@sangam__chapagai-000000?style=flat&logo=x&logoColor=white)](https://x.com/sangam_chapagai)
-
 Minimal repo showing an AI voice assistant controlling an ACT policy on the SO101 for carrot pick and place.
 
 ## Overview
@@ -14,6 +11,9 @@ This repo shows a minimal end-to-end setup where GPT controls a single ACT pick-
 The assistant talks to you over voice and calls one policy function to move a carrot from the plate to the cutting board.
 
 ![Robot setup](assets/Carrot_Slicer_Robot_Setup.png)
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20GPT--ACT-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/JEJPc5V4Kj)
+[![Follow on X](https://img.shields.io/badge/Follow-@sangam__chapagai-000000?style=flat&logo=x&logoColor=white)](https://x.com/sangam_chapagai)
 
 ## Before you start
 - **Have SO-101 + LeRobot working first**: follow the official LeRobot docs to assemble, wire, and teleoperate the arm.
