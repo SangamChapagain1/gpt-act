@@ -2,6 +2,10 @@
 Minimal repo showing an AI voice assistant controlling an ACT policy on the SO101 for carrot pick and place.
 
 ## Overview
+## Demo videos
+- **Short demo (2 min)**: [Autonomous Carrot Slicer Robot using GPT ACT VLA System](https://youtu.be/2TAfNOfgM9k)
+- **Full run (8.5 min)**: [GPT ACT on an autonomous carrot slicer robot (8 min demo)](https://youtu.be/ARiFkiiq41E)
+
 This repo shows a minimal end-to-end setup where GPT controls a single ACT pick-and-place policy on an SO-101 arm.
 The assistant talks to you over voice and calls one policy function to move a carrot from the plate to the cutting board.
 
@@ -66,6 +70,10 @@ Optional: `train_smolvla_pick_and_place.ipynb` is also included for reference, b
 - `scripts/replay_episode.py` – replay a recorded pick-and-place episode.
 
 Note: `scripts/run_inference_smolvla_pick_and_place.py` exists for reference but is not used by the voice assistant.
+
+## Community
+- Discord: [Join the GPT-ACT robotics Discord](https://discord.gg/JEJPc5V4Kj)
+
 
 ## Python environment notes
 - Both `lerobot` and this repo are installed into the same virtualenv (`robotics_env`).
